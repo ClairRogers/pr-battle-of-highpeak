@@ -22,9 +22,10 @@ h3 {
 
 a {
   color: #CA3e47;
+  text-shadow: 1px 1px 2px #000000ab;
 }
 a:hover {
-  color: #f3cdbc;
+  color: #f8636d;
 }
 
 b {
